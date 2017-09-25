@@ -33,7 +33,7 @@ else:
     print "You are working on the limit and getting another 15 Minutes of break \n"
 
 ### Percentage of the Day ###
-prozent = 3600/10
+prozent = 3870/10
 percent= elapsed.seconds/prozent
 
 ### CMD OUTPUT Percentage ###
