@@ -8,8 +8,8 @@ Copyright 2017
 """
 
 ### Los Variablos ###
-stunden = float(raw_input("Gebe Stunden ein : "))
-minutos = float(raw_input("Gebe los minutos ein : "))
+stunden = float(input("Gebe Stunden ein : "))
+minutos = float(input("Gebe los minutos ein : "))
 stundenlohn = 12
 
 """
