@@ -29,7 +29,7 @@ def Gehalt(Std, Min, Std_Lohn):
 
 	if Lohn>=2000.0:
 		return round((Lohn*(1.0-0.158))*(1.0-0.0935),2)
-elif Lohn>=950.0:
+	elif Lohn>=950.0:
 # Solidarittszuschlag und Lohnsteuer bei ungefaehr 15,7 %
 		return round((Lohn*(1.0-0.024))*(1.0-0.0935),2)
 	else:
